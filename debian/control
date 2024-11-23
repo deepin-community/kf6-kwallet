@@ -41,10 +41,10 @@ Depends: libkf6wallet-data (= ${source:Version}),
          libkf6walletbackend6 (= ${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depends},
-Breaks: libkf5wallet-bin (<< 5.115.0-3~),
+Breaks: libkf5wallet-bin (<< 5.103.0-1deepin0~),
         libkf6wallet-bin,
         libpam-kwallet5 (<< 6.0.0~),
-Replaces: libkf5wallet-bin (<< 5.115.0-3~), libkf6wallet-bin,
+Replaces: libkf5wallet-bin (<< 5.103.0-1deepin0~), libkf6wallet-bin,
 Description: safe desktop-wide storage for passwords - kwalletd daemon
  This framework contains two main components:
  - Interface to KWallet, the safe desktop-wide storage for
