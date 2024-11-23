@@ -1,0 +1,4 @@
+usr/include/KF6/KWallet/
+usr/lib/*/cmake/KF6Wallet/
+usr/lib/*/libKF6Wallet.so
+usr/share/dbus-1/interfaces/kf6_org.kde.KWallet.xml
