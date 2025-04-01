@@ -1,3 +1,9 @@
+kf6-kwallet (6.6.0-1deepin2) unstable; urgency=medium
+
+  * update Breals Re;aces libkf5wallet.
+
+ -- lichenggang <lichenggang@deepin.org>  Tue, 01 Apr 2025 16:13:42 +0800
+
 kf6-kwallet (6.6.0-1deepin1) unstable; urgency=medium
 
   * update Breaks Replaces libkf5wallet-bin.
